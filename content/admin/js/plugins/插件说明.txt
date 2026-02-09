@@ -1,0 +1,22 @@
+perfect-scrollbar.min.js 完美的滚动条
+smooth-scrollbar.min.js 光滑的滚动条
+chartjs.min.js 引导图表
+flatpickr.min.js 日期选择器
+fullcalendar.min.js 完整日历
+nouislider.min.js 滑块
+choices.min.js 选择
+dropzone.min.js 上传
+datatables.js 数据表
+quill.min.js 编辑器
+sweetalert.min.js 温馨提示
+multistep-form.js 引导向导
+
+照片滑动
+photoswipe.min.js
+photoswipe-ui-default.min.js
+
+
+边栏设置 看板法  
+dragula/dragula.min.js
+jkanban/jkanban.js
+
